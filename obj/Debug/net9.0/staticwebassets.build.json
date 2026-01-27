@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UyhEtEFL+BGtG/BE4p1VLdEjqBlF4cODbTeTJFvmbKY=",
+  "Source": "AuthenticationRefreshTokens",
+  "BasePath": "_content/AuthenticationRefreshTokens",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
