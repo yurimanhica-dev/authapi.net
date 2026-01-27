@@ -1,5 +1,6 @@
 namespace AuthenticationRefreshTokens.DTOs
 {
+    //Dtos for AuthController
     public record RegisterDTO(string Username, string Email, string Password);
     public record LoginDTO(string Email, string Password);
     public record TokenRequestDTO(string AccessToken, string RefreshToken);

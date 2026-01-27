@@ -154,3 +154,4 @@ Y:\dev\.NET\MVC\LoginTrain\codehubmvc\AuthenticationRefreshTokens\obj\Debug\net9
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\AuthenticationRefreshTokens\obj\Debug\net9.0\AuthenticationRefreshTokens.pdb
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\AuthenticationRefreshTokens\obj\Debug\net9.0\AuthenticationRefreshTokens.genruntimeconfig.cache
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\AuthenticationRefreshTokens\obj\Debug\net9.0\ref\AuthenticationRefreshTokens.dll
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\AuthenticationRefreshTokens\obj\Debug\net9.0\AuthenticationRefreshTokens.sourcelink.json
