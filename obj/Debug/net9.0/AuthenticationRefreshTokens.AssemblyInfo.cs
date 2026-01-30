@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a5970de2-c2fb-466e-9143-02648299dfa5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthenticationRefreshTokens")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8229cfd04f1371e4b96d9c5bd39c1ee8a1d224a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c0d8528584aa90e1503c4de56043685d5ae361c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthenticationRefreshTokens")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthenticationRefreshTokens")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
